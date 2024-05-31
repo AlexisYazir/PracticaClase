@@ -1,0 +1,54 @@
+.input_nombre{
+    text-transform: uppercase;
+    width: 550px;
+}
+*{
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+body{
+    background-image: url("imagenes/fondo_form.jpg");
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+legend{
+    font-size: 30px;
+    font-weight: 600;
+}
+fieldset{
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    background-color: rgba(252, 253, 255, 0.8);
+    padding: 20px;
+    margin-bottom: 20px
+}
+form{
+    margin: 20px auto;
+    max-width: 500px;
+
+}
+.tamaño_input{
+    width: 550px;
+}
+label{
+    margin-bottom: 10px;
+}
+h1{
+    font-size: 50px;
+position: relative;
+color: aliceblue;
+}
+botton{
+    display: flex;
+    padding: 30px;
+}
+header{
+    display: flex;
+    justify-content: center;
+
+}
+/*Alexis Yazir Hernandez Hipolito 3° D*/
